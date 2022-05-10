@@ -1,5 +1,4 @@
 # API_project1
 
-First project with API. All credit to Daniela "Danascript".
+My first project with API is based on the YES/NO API Challenge from Danascript. The project refers to the typical 8 Ball that, when asked a question, shakes and answers "Yes or No", fetching the answer. All credit to Daniela "Danascript".
 
-Yes/No Challenge
